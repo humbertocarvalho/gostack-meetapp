@@ -29,3 +29,7 @@ Meetapp is a service used to organize events for people with similar interests.
 ## Mobile
 
 `cd mobile && yarn && react-native run-android`
+
+## Instruções para correção:
+
+O aplicativo foi validado somente em dispositivos Android.
