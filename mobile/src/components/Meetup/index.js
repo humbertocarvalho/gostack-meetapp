@@ -21,7 +21,6 @@ export default function Meetup({ data, onSubmit, buttonText }) {
     });
   }, [data.date]);
 
-  // TODO Verificar por que não está trazendo certo a imamge.
   return (
     <Container past={data.past}>
       <Banner source={{ uri: data.banner.url }} />
