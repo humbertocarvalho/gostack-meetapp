@@ -1,5 +1,4 @@
 import React, { useMemo } from 'react';
-import banner from '~/assets/banner.png';
 import { parseISO, formatRelative } from 'date-fns';
 import pt from 'date-fns/locale/pt';
 import Icon from 'react-native-vector-icons/MaterialIcons';
